@@ -1,0 +1,1 @@
+# numpy-deneme-2-
